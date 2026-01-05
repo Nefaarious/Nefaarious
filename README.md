@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, I'm Oliver🤗
 
-<!--
-**Nefaarious/Nefaarious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a 22 year old Software Engineering student at the University of Southern Denmark, where im soon starting my 6th Semester! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some projects i have contributed to:
+
+### Weather App
+Full-stack web app providing real time weather data for location based searches.
+- **Repo**: [https://github.com/petertran13/weather]
+- **My Role**: Helped set up and configured the weather API integration, ensuring reliable data fetching with Axios. Designed and implemented the parts of the responsive UI in React. Collaborated with team members on backend logic and overall application structure.
+- **Tech**: React, Laravel, Axios
+
+### Car App
+- **Repo**: [https://github.com/aurasakura/LightningMcQueen]
+- **My Role**: Assisted with logic for the backend, related to the database(AsyncStorage), and other smaller tasks around the entire project, mostly polishing code.
+- **Tech**: JavaScript, TypeScript, AsyncStorage
+
+### Asteroid Game
+- **Repo**: [https://github.com/Nefaarious/AsteroidsFX]
+- **My Role**: Extended upon a forked Repo from professor, implemented properties such as Enemy, and made big tweaks to various details and quality of life changes.
+- **Tech**: Java
