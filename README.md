@@ -1,6 +1,6 @@
 ## Hello, I'm Oliver🤗
 
-Im a 22 year old Software Engineering student at the University of Southern Denmark, where im soon starting my 6th Semester! 
+Im a 23 year old Software Engineering student at the University of Southern Denmark, where im soon starting my 6th Semester! 
 
 
 ## Some projects i have contributed to:
